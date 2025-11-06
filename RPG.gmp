@@ -1,0 +1,40 @@
+[PREFERENCES 000]
+DATE_FMT=SPA
+DTALIB=bt119_db
+LEVEL_CHECK=Yes
+CREATE_SAVF=No
+DELETE_SOURCES=No
+AutomaticPrompts=No
+IS_WEB_GEN=0
+TGTRLS=*CURRENT
+CLIBL_400=gx BT119_DB BTCMLIB_DB BT119_CP BTCMLIB_CP
+SORT_ATTRIBUTES=No
+GENERATE_ILE=Yes
+DECIMAL_POINT=.
+MAIN_DBMS=4
+MAIN_GEN=-1
+CTOD_FMT=SPA
+COMPILE_OPTS=SRC DEBUG
+PGMLIB=btcmlib_cp                                                                                                                                                                                                
+[DATASTORES0001]
+DataStore0001=Default 1
+LastDS=1
+[MODEL 000]
+DataSource=4
+Generator=5
+PromptDefaults=1
+[CLASSES0001]
+Last=3
+Class0001=Graphic 1 0 0
+Class0002=Text 0 0 0
+Class0003=1 0 0 0
+[DSS0000]
+DatSto0001=4
+[GENTYPES0001]
+Last=3
+GenType0001=Default 1 0
+GenType0002=Reorg 0 1
+GenType0003=Java_400_Win 0 0
+[GENS0000]
+Gen0001=5
+Gen0002=5
