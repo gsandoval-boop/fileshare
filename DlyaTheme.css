@@ -1,0 +1,1135 @@
+@charset "iso-8859-1";
+
+.Attribute
+{
+	color : rgb(0, 0, 0);
+	font-family : Verdana;
+	font-size : 9pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	border-width : 1;
+	border-color : rgb(91, 107, 134);
+	border-style : solid;
+	
+}
+
+.FreeStyleGrid
+{
+	border-width : 0;
+	border-style : none;
+	
+}
+.FreeStyleGridUniform
+{
+	border-width: 0;
+	background-color : rgb(232, 232, 232);
+	color : rgb(92, 92, 92);
+	font-family : Verdana;
+	font-size : 8.25pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	
+}
+.FreeStyleGridOdd
+{
+	border-width: 0;
+	background-color : rgb(232, 232, 232);
+	color : rgb(92, 92, 92);
+	font-family : Verdana;
+	font-size : 8.25pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	
+}
+.FreeStyleGridEven
+{
+	border-width: 0;
+	background-color : rgb(211, 211, 211);
+	color : rgb(92, 92, 92);
+	font-family : Verdana;
+	font-size : 8.25pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	
+}
+	
+.Grid
+{
+	border-width : 2;
+	border-color : rgb(233, 233, 233);
+	border-style : none;
+	width : 100%;
+	vertical-align : middle;
+	
+}
+.GridUniform
+{
+	border-width: 0;
+	color : rgb(0, 0, 0);
+	font-family : Verdana;
+	font-size : 9pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	background-color : rgb(255, 255, 255);
+	
+}
+.GridUniformTitle
+{
+	color : rgb(255, 255, 255);
+	font-family : Verdana;
+	font-size : 9pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	background-color : rgb(255, 255, 255);
+	
+}
+.GridTitle
+{
+	color : rgb(255, 255, 255);
+	font-family : Verdana;
+	font-size : 9pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	background-color : rgb(150, 160, 163);
+	
+}
+.GridOdd
+{
+	border-width: 0;
+	color : rgb(0, 0, 0);
+	font-family : Verdana;
+	font-size : 9pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	background-color : rgb(243, 243, 243);
+	
+}
+.GridEven
+{
+	border-width: 0;
+	color : rgb(0, 0, 0);
+	font-family : Verdana;
+	font-size : 9pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	background-color : rgb(255, 255, 255);
+	
+}
+	
+.Table
+{
+	border-width : 0;
+	border-style : none;
+	color : rgb(92, 92, 92);
+	font-family : Verdana;
+	font-size : 8.25pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	
+}
+
+.Image
+{
+	border-width : 0;
+	border-style : none;
+	
+}
+
+.Button
+{
+	font-family : Verdana;
+	font-size : 9.75pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	background-color : rgb(236, 233, 216);
+	border-width : 2;
+	border-color : rgb(172, 168, 153);
+	border-style : outset;
+	vertical-align : middle;
+	text-indent : 5pt;
+	margin-top : 3pt;
+	margin-right : 3pt;
+	margin-left : 3pt;
+	margin-bottom : 3pt;
+	
+}
+
+.Hyperlink
+{
+	border-width : 0;
+	border-style : none;
+	font-family : Verdana;
+	font-size : 8.25pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : underline;
+	color : rgb(0, 0, 128);
+	
+}
+
+.TextBlock
+{
+	border-width : 0;
+	border-style : none;
+	font-family : Verdana;
+	font-size : 8.25pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	color : rgb(0, 0, 0);
+	
+}
+
+.ErrorViewer
+{
+	border-width : 0;
+	border-style : none;
+	
+}
+
+.Form
+{
+	border-width : 0;
+	border-style : none;
+	margin-top : 0pt;
+	margin-right : 0pt;
+	margin-left : 0pt;
+	margin-bottom : 0pt;
+	
+}
+
+.BtnText
+{
+	border-width : 0;
+	border-style : none;
+	font-family : Verdana;
+	font-size : 8pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	color : rgb(96, 96, 96);
+	
+}
+
+.FldText
+{
+	border-width : 0;
+	border-style : none;
+	font-family : Verdana;
+	font-size : 9pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	color : rgb(0, 0, 0);
+	margin-top : 3px;
+	margin-right : 5pt;
+	margin-left : 5pt;
+	margin-bottom : 3px;
+	
+}
+
+.MainTitle
+{
+	border-width : 0;
+	border-style : none;
+	font-family : Verdana;
+	font-size : 12pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	color : rgb(159, 32, 32);
+	margin-top : 2px;
+	margin-right : 0px;
+	margin-left : 5px;
+	margin-bottom : 1px;
+	
+}
+
+.TblTitle
+{
+	border-width : 0;
+	border-style : none;
+	font-family : Verdana;
+	font-size : 10pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	background-color : rgb(0, 0, 0);
+	color : rgb(255, 255, 255);
+	margin-top : 2px;
+	margin-right : 0px;
+	margin-left : 5px;
+	margin-bottom : 2px;
+	
+}
+
+.FldCaptionCell
+{
+	background-color : rgb(221, 221, 221);
+	border-width : 0;
+	border-style : none;
+	width : 150;
+	color : rgb(0, 0, 0);
+	font-family : Verdana;
+	font-size : 8pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	
+}
+
+.SpecialButtons
+{
+	font-family : Verdana;
+	font-size : 9.75pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	background-color : rgb(236, 233, 216);
+	border-width : 2;
+	border-color : rgb(172, 168, 153);
+	border-style : outset;
+	vertical-align : middle;
+	text-indent : 5pt;
+	margin-top : 3pt;
+	margin-right : 3pt;
+	margin-left : 3pt;
+	margin-bottom : 3pt;
+	
+}
+
+.BtnFirst
+{
+	font-family : Verdana;
+	font-size : 9.75pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	background-color : rgb(236, 233, 216);
+	border-width : 2;
+	border-color : rgb(172, 168, 153);
+	border-style : outset;
+	vertical-align : middle;
+	text-indent : 5pt;
+	margin-top : 3pt;
+	margin-right : 3pt;
+	margin-left : 3pt;
+	margin-bottom : 3pt;
+	
+}
+
+.BtnNext
+{
+	font-family : Verdana;
+	font-size : 9.75pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	background-color : rgb(236, 233, 216);
+	border-width : 2;
+	border-color : rgb(172, 168, 153);
+	border-style : outset;
+	vertical-align : middle;
+	text-indent : 5pt;
+	margin-top : 3pt;
+	margin-right : 3pt;
+	margin-left : 3pt;
+	margin-bottom : 3pt;
+	
+}
+
+.BtnPrevious
+{
+	font-family : Verdana;
+	font-size : 9.75pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	background-color : rgb(236, 233, 216);
+	border-width : 2;
+	border-color : rgb(172, 168, 153);
+	border-style : outset;
+	vertical-align : middle;
+	text-indent : 5pt;
+	margin-top : 3pt;
+	margin-right : 3pt;
+	margin-left : 3pt;
+	margin-bottom : 3pt;
+	
+}
+
+.BtnLast
+{
+	font-family : Verdana;
+	font-size : 9.75pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	background-color : rgb(236, 233, 216);
+	border-width : 2;
+	border-color : rgb(172, 168, 153);
+	border-style : outset;
+	vertical-align : middle;
+	text-indent : 5pt;
+	margin-top : 3pt;
+	margin-right : 3pt;
+	margin-left : 3pt;
+	margin-bottom : 3pt;
+	
+}
+
+.BtnSelect
+{
+	font-family : Verdana;
+	font-size : 9.75pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	background-color : rgb(236, 233, 216);
+	border-width : 2;
+	border-color : rgb(172, 168, 153);
+	border-style : outset;
+	vertical-align : middle;
+	text-indent : 5pt;
+	margin-top : 3pt;
+	margin-right : 3pt;
+	margin-left : 3pt;
+	margin-bottom : 3pt;
+	
+}
+
+.BtnGet
+{
+	font-family : Verdana;
+	font-size : 9.75pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	background-color : rgb(236, 233, 216);
+	border-width : 2;
+	border-color : rgb(172, 168, 153);
+	border-style : outset;
+	vertical-align : middle;
+	text-indent : 5pt;
+	margin-top : 3pt;
+	margin-right : 3pt;
+	margin-left : 3pt;
+	margin-bottom : 3pt;
+	
+}
+
+.BtnEnter
+{
+	font-family : Verdana;
+	font-size : 9.75pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	background-color : rgb(236, 233, 216);
+	border-width : 2;
+	border-color : rgb(172, 168, 153);
+	border-style : outset;
+	vertical-align : middle;
+	text-indent : 5pt;
+	margin-top : 3pt;
+	margin-right : 3pt;
+	margin-left : 3pt;
+	margin-bottom : 3pt;
+	
+}
+
+.BtnCheck
+{
+	font-family : Verdana;
+	font-size : 9.75pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	background-color : rgb(236, 233, 216);
+	border-width : 2;
+	border-color : rgb(172, 168, 153);
+	border-style : outset;
+	vertical-align : middle;
+	text-indent : 5pt;
+	margin-top : 3pt;
+	margin-right : 3pt;
+	margin-left : 3pt;
+	margin-bottom : 3pt;
+	
+}
+
+.BtnCancel
+{
+	font-family : Verdana;
+	font-size : 9.75pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	background-color : rgb(236, 233, 216);
+	border-width : 2;
+	border-color : rgb(172, 168, 153);
+	border-style : outset;
+	vertical-align : middle;
+	text-indent : 5pt;
+	margin-top : 3pt;
+	margin-right : 3pt;
+	margin-left : 3pt;
+	margin-bottom : 3pt;
+	
+}
+
+.BtnDelete
+{
+	font-family : Verdana;
+	font-size : 9.75pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	background-color : rgb(236, 233, 216);
+	border-width : 2;
+	border-color : rgb(172, 168, 153);
+	border-style : outset;
+	vertical-align : middle;
+	text-indent : 5pt;
+	margin-top : 3pt;
+	margin-right : 3pt;
+	margin-left : 3pt;
+	margin-bottom : 3pt;
+	
+}
+
+.BtnHelp
+{
+	font-family : Verdana;
+	font-size : 9.75pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	background-color : rgb(236, 233, 216);
+	border-width : 2;
+	border-color : rgb(172, 168, 153);
+	border-style : outset;
+	vertical-align : middle;
+	text-indent : 5pt;
+	margin-top : 3pt;
+	margin-right : 3pt;
+	margin-left : 3pt;
+	margin-bottom : 3pt;
+	
+}
+
+.BtnRefresh
+{
+	font-family : Verdana;
+	font-size : 9.75pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	background-color : rgb(236, 233, 216);
+	border-width : 2;
+	border-color : rgb(172, 168, 153);
+	border-style : outset;
+	vertical-align : middle;
+	text-indent : 5pt;
+	margin-top : 3pt;
+	margin-right : 3pt;
+	margin-left : 3pt;
+	margin-bottom : 3pt;
+	
+}
+
+.MsgText
+{
+	border-width : 0;
+	border-style : none;
+	font-family : Verdana;
+	font-size : 8pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	color : rgb(0, 0, 0);
+	
+}
+
+.BtnSmlText
+{
+	border-width : 0;
+	border-style : none;
+	font-family : Verdana;
+	font-size : 8pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	color : rgb(0, 0, 0);
+	
+}
+
+.BtnTextDis
+{
+	border-width : 0;
+	border-style : none;
+	font-family : Verdana;
+	font-size : 8pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	color : rgb(140, 140, 140);
+	
+}
+
+.FilterText
+{
+	border-width : 0;
+	border-style : none;
+	font-family : Verdana;
+	font-size : 8pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	color : rgb(0, 0, 0);
+	margin-top : 3px;
+	margin-right : 5pt;
+	margin-left : 5pt;
+	margin-bottom : 3px;
+	
+}
+
+.AroundFldText
+{
+	border-width : 0;
+	border-style : none;
+	font-family : Verdana;
+	font-size : 9pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	color : rgb(0, 0, 0);
+	
+}
+
+.SubTblTitle
+{
+	border-width : 0;
+	border-style : none;
+	font-family : Verdana;
+	font-size : 10pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	background-color : rgb(186, 192, 196);
+	color : rgb(0, 0, 0);
+	margin-top : 2px;
+	margin-right : 0px;
+	margin-left : 5px;
+	margin-bottom : 2px;
+	
+}
+
+.SubTblBorder
+{
+	border-width : 2 ;
+	border-color : rgb(180, 190, 193);
+	border-style : solid;
+	color : rgb(255, 255, 255);
+	font-family : Verdana;
+	font-size : 8.25pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	margin-top : -5px;
+	margin-right : 0px;
+	margin-left : 0px;
+	margin-bottom : 0px;
+	
+}
+
+.ItMsgText
+{
+	border-width : 0;
+	border-style : none;
+	font-family : Verdana;
+	font-size : 8pt;
+	font-style : italic;
+	font-weight : normal;
+	text-decoration : none;
+	color : rgb(0, 0, 0);
+	
+}
+
+.FormBase
+{
+	border-width : 0;
+	border-style : none;
+	background-color : rgb(176, 185, 192);
+	margin-top : 0px;
+	margin-right : 0px;
+	margin-left : 0px;
+	margin-bottom : 0px;
+	
+}
+
+.AttributeBase
+{
+	background-color : rgb(255, 255, 255);
+	color : rgb(0, 0, 0);
+	font-family : Verdana;
+	font-size : 9pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	border-width : 1;
+	border-color : rgb(91, 107, 134);
+	border-style : solid;
+	
+}
+
+.TblHeader
+{
+	background-color : rgb(0, 0, 0);
+	border-width : 0; border-bottom: 3px #980000;
+	border-style : solid;
+	color : rgb(92, 92, 92);
+	font-family : Verdana;
+	font-size : 8.25pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	
+}
+
+.SubTblHeader
+{
+	background-color : rgb(186, 192, 196);
+	border-width : 0; border-bottom: 2px #86898C;
+	border-style : solid;
+	color : rgb(92, 92, 92);
+	font-family : Verdana;
+	font-size : 8.25pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	
+}
+
+.ComText
+{
+	border-width : 0;
+	border-style : none;
+	font-family : Verdana;
+	font-size : 9pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	color : rgb(0, 0, 0);
+	
+}
+
+.NoBorderAttribute
+{
+	color : rgb(0, 0, 0);
+	font-family : Verdana;
+	font-size : 9pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	border-width : 0;
+	border-style : none;
+	
+}
+
+.ReadonlyAttribute
+{
+	color : rgb(0, 0, 0);
+	font-family : Verdana;
+	font-size : 9pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	border-width : 1;
+	border-style : none;
+	
+}
+
+.CaptionBackColor
+{
+	background-color : rgb(221, 221, 221);
+	border-width : 0;
+	border-style : none;
+	font-family : Verdana;
+	font-size : 8.25pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	
+}
+
+.BackColor
+{
+	background-color : rgb(240, 243, 245);
+	border-width : 0;
+	border-style : none;
+	font-family : Verdana;
+	font-size : 8.25pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	
+}
+
+.MainTitleBackColor
+{
+	background-color : rgb(225, 228, 230);
+	border-width : 0;
+	border-style : none;
+	width : 100%;
+	font-family : Verdana;
+	font-size : 8.25pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	
+}
+
+.ReadonlyAttributeBase
+{
+	color : rgb(0, 0, 0);
+	font-family : Verdana;
+	font-size : 9pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	border-width : 0; overflow: auto;
+	border-color : rgb(255, 255, 255);
+	border-style : none;
+	
+}
+
+.AttributeEmphasised
+{
+	color : rgb(255, 0, 0);
+	font-family : Verdana;
+	font-size : 9pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	border-width : 1;
+	border-color : rgb(255, 0, 0);
+	border-style : solid;
+	
+}
+
+.NoBorderAttributeEmphasised
+{
+	color : rgb(255, 0, 0);
+	font-family : Verdana;
+	font-size : 9pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	border-width : 0;
+	border-style : none;
+	
+}
+
+.FldTextEmphasised
+{
+	border-width : 0;
+	border-style : none;
+	font-family : Verdana;
+	font-size : 9pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	color : rgb(255, 0, 0);
+	margin-top : 3px;
+	margin-right : 5pt;
+	margin-left : 5pt;
+	margin-bottom : 3px;
+	
+}
+
+.AroundFldTextEmphasised
+{
+	border-width : 0;
+	border-style : none;
+	font-family : Verdana;
+	font-size : 9pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	color : rgb(255, 0, 0);
+	
+}
+
+.ReadonlyAttributeEmphasised
+{
+	color : rgb(255, 0, 0);
+	font-family : Verdana;
+	font-size : 9pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	border-width : 0;
+	border-style : none;
+	
+}
+
+.ComTextEmphasised
+{
+	border-width : 0;
+	border-style : none;
+	font-family : Verdana;
+	font-size : 9pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	color : rgb(255, 0, 0);
+	
+}
+
+.SubTblTopBorder
+{
+	border-width : 1;
+	border-style : solid;
+	color : rgb(180, 190, 193);
+	
+}
+
+.FitlerTextEmphasised
+{
+	border-width : 0;
+	border-style : none;
+	font-family : Verdana;
+	font-size : 8pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	color : rgb(255, 0, 0);
+	margin-top : 3px;
+	margin-right : 5pt;
+	margin-left : 5pt;
+	margin-bottom : 3px;
+	
+}
+
+.EntirePage
+{
+	border-width : 0; margin-left: auto; margin-right: auto;
+	border-style : none;
+	width : 780;
+	color : rgb(92, 92, 92);
+	font-family : Verdana;
+	font-size : 8.25pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	margin-top : 4px;
+	margin-bottom : 4px;
+	
+}
+
+.NewRecord
+{
+	background-color : rgb(230, 250, 230);
+	color : rgb(0, 0, 0);
+	font-family : Verdana;
+	font-size : 9pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	border-width : 1;
+	border-color : rgb(0, 64, 0);
+	border-style : solid;
+	
+}
+
+.OperationTblLeft
+{
+	border-width : 0; float: left;
+	border-style : none;
+	color : rgb(92, 92, 92);
+	font-family : Verdana;
+	font-size : 8.25pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	margin-top : 4px;
+	margin-right : 0px;
+	margin-left : 6px;
+	margin-bottom : 0px;
+	
+}
+
+.EntirePageLarge
+{
+	border-width : 0; margin-left: auto; margin-right: auto;
+	border-style : none;
+	width : 1000;
+	color : rgb(92, 92, 92);
+	font-family : Verdana;
+	font-size : 8.25pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	margin-top : 4px;
+	margin-bottom : 4px;
+	
+}
+
+.OperationTblLeftLarge
+{
+	border-width : 0; float: left;
+	border-style : none;
+	color : rgb(92, 92, 92);
+	font-family : Verdana;
+	font-size : 8.25pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	margin-top : 4px;
+	margin-right : 0px;
+	margin-left : 4px;
+	margin-bottom : 0px;
+	
+}
+
+.Shortcut
+{
+	border-width : 3px; filter: alpha(opacity=80);-moz-opacity: 0.8;
+	border-style : ridge;
+	border-color : rgb(136, 136, 136);
+	background-color : rgb(255, 180, 80);
+	color : rgb(17, 17, 17);
+	padding-top : 1px;
+	padding-right : 2px;
+	padding-left : 2px;
+	padding-bottom : 1px;
+	
+}
+
+.HighlightedShortcut
+{
+	border-width : 4px; filter: alpha(opacity=80);-moz-opacity: 0.8;
+	border-style : ridge;
+	border-color : rgb(136, 136, 136);
+	background-color : rgb(255, 145, 10);
+	color : rgb(17, 17, 17);
+	padding-top : 0px;
+	padding-right : 1px;
+	padding-left : 1px;
+	padding-bottom : 0px;
+	
+}
+
+.GridFilters
+{
+	background-color : rgb(240, 243, 245);
+	border-width : 0;
+	border-style : none;
+	height : 100%;
+	width : 1px /* para que se respete el prototipo de la fila de altura 0 */;
+	color : rgb(255, 255, 255);
+	font-family : Verdana;
+	font-size : 8.25pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	
+}
+
+.GridPaging
+{
+	background-color : rgb(233, 233, 233);
+	border-width : 0;
+	border-style : none;
+	width : 100%;
+	font-family : Verdana;
+	font-size : 8.25pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	
+}
+
+.TblOperationHeader
+{
+	border-width : 0;
+	border-color : rgb(255, 255, 255);
+	border-style : none;
+	font-family : Verdana;
+	font-size : 8.25pt;
+	font-style : normal;
+	font-weight : normal;
+	text-decoration : none;
+	
+}
+
+.ShortcutInnerText
+{
+	border-width : 0;
+	border-style : none;
+	height : 13px;
+	width : 15px; display: table; text-align: center;
+	font-family : Verdana;
+	font-size : 9pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	color : rgb(0, 0, 0);
+	
+}
+A:VISITED
+{
+	font-family : Verdana;
+	font-size : 8pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	color : rgb(92, 92, 92);
+	
+}
+
+A:ACTIVE
+{
+	font-family : Verdana;
+	font-size : 8pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	color : rgb(92, 92, 92);
+	
+}
+
+A:LINK
+{
+	font-family : Verdana;
+	font-size : 8pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	color : rgb(92, 92, 92);
+	
+}
+
+A:HOVER
+{
+	font-family : Verdana;
+	font-size : 8pt;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : underline;
+	color : rgb(92, 92, 92);
+	
+}
+
